@@ -1,5 +1,5 @@
 import streamlit as st
-from streamlit_gsheets import GSheetsConnection
+
 
 st.title("🎈 My new app")
 st.write(
